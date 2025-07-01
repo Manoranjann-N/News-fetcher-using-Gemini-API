@@ -15,3 +15,4 @@ In code, assign your API key to the parameter 'api_key' of genai.Client
 
 Run the program and the output will be stored as a text file in the same directory
 
+
