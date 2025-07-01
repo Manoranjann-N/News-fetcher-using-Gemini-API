@@ -1,6 +1,6 @@
 # News-fetcher-using-Gemini-API
 
-The code will fetch top 10 news using Gemini API
+The code will fetch todays top 10 news using Gemini API
 
 Prerequisite : Python3.9+
 
