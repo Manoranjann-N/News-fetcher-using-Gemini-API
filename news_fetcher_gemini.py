@@ -1,7 +1,7 @@
 from google import genai
 from google.genai import types
 
-# Assign your API key to api_key
+# Assign your API key to 'api_key'
 client = genai.Client(api_key="<YOUR API KEY>")
 
 grounding_tool = types.Tool(
